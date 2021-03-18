@@ -1,0 +1,1 @@
+A copy of cors-anywhere, more info here: https://github.com/Rob--W/cors-anywhere
